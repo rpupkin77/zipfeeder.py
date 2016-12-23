@@ -7,8 +7,8 @@ setup(
                 'is required',
   author = 'Paul Thompson',
   author_email = 'info@zipfeeder.us',
-  url = 'https://github.com/peterldowp', # use the URL to the github repo
-  download_url = 'https://github.com/peterldowns/mypackage/tarball/0.1', # I'll explain this in a second
-  keywords = ['testing', 'logging', 'example'], # arbitrary keywords
+  url = 'https://github.com/rpupkin77/zipfeeder.py', # use the URL to the github repo
+  download_url = 'https://github.com/rpupkin77/zipfeeder.py/archive/master.zip', # I'll explain this in a second
+  keywords = ['zip code', 'us zip code', 'postal code', 'zip code api'], # arbitrary keywords
   classifiers = [],
 )
