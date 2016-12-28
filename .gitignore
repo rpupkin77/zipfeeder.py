@@ -1,3 +1,4 @@
 .idea
+tests.py
 venv_zfpy
 *.pyc

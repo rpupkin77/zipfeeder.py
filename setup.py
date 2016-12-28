@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name='zipfeeder',
   packages = ['zipfeeder'],
-  version = '0.2',
+  version = '0.3',
   description = 'Uses the Zipfeeder.us API to serve free United States Zip Code information, a ZipFeeder account '
                 'is required',
   author = 'Paul Thompson',

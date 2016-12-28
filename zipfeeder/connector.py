@@ -28,7 +28,7 @@ class Connector(object):
         :param path: the zipfeder url to be requested
         :return: the json response
         """
-        print("{}/{}".format(self.base_url, path))
+
         r = requests.get("{}/{}".format(self.base_url, path))
 
         if r.status_code == 401:
