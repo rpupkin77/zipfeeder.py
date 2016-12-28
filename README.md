@@ -59,7 +59,7 @@ If you wish to submit a pull request or testa ny changes you have made locally, 
 
 ## Contributors
 
-If you wish to improve or fork this project, feel free, not all pull requests will be excepted. 
+If you wish to improve or fork this project, feel free, not all pull requests will be accepted.
 
 ## License
 
