@@ -55,7 +55,7 @@ Once you have initialized an object you can begin calling the object methods lik
 
 ## Tests
 
-If you wish to submit a pull request or testa ny changes you have made locally, you can do so by running tests.py in the root of teh app. You will need to provide your own key for testing. 
+If you wish to submit a pull request or test any changes you have made locally, you can do so by running tests.py in the root of the app. You will need to provide your own key for testing. Please note, not all tests will pass unless you have a premium key.
 
 ## Contributors
 
