@@ -4,7 +4,7 @@ from zipfeeder.connector import Connector as ZipFeeder
 
 class TestZfApi(unittest.TestCase):
 
-    zf = ZipFeeder('7J9UVPP6')
+    zf = ZipFeeder('7J9Usl6sknnkn')
 
     def test_single_zip(self):
          z = self.zf.zipcode('01950')
